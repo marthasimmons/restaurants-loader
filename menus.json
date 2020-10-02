@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "name": "Burgers",
+        "restaurant_id": 1
+    },
+
+    {
+        "id": 2,
+        "name": "Sides",
+        "restaurant_id": 1
+    },
+
+    {
+        "id": 3,
+        "name": "Drinks",
+        "restaurant_id": 1
+    },
+
+    {
+        "id": 4,
+        "name": "Desserts",
+        "restaurant_id": 1
+    },
+
+    {
+        "id": 5,
+        "name": "Curries",
+        "restaurant_id": 2
+    },
+
+    {
+        "id": 6,
+        "name": "Carbs",
+        "restaurant_id": 2
+    },
+
+    {
+        "id": 7,
+        "name": "Drinks",
+        "restaurant_id": 1
+    },
+
+    {
+        "id": 8,
+        "name": "Desserts",
+        "restaurant_id": 2
+    },
+    
+    {
+        "id": 9,
+        "name": "Breakfast",
+        "restaurant_id": 3
+    },
+
+    {
+        "id": 10,
+        "name": "Mezze",
+        "restaurant_id": 3
+    },
+
+    {
+        "id": 11,
+        "name": "Drinks",
+        "restaurant_id": 3
+    },
+
+    {
+        "id": 12,
+        "name": "Starters",
+        "restaurant_id": 4
+    },
+
+    {
+        "id": 13,
+        "name": "Mains",
+        "restaurant_id": 4
+    },
+
+    {
+        "id": 14,
+        "name": "Kids",
+        "restaurant_id": 4
+    },
+
+    {
+        "id": 15,
+        "name": "Veggie",
+        "restaurant_id": 4
+    },
+
+    {
+        "id": 16,
+        "name": "Drinks",
+        "restaurant_id": 4
+    },
+
+    {
+        "id": 17,
+        "name": "Pizza",
+        "restaurant_id": 5
+    },
+
+    {
+        "id": 18,
+        "name": "Not Pizza",
+        "restaurant_id": 5
+    },
+    
+    {
+        "id": 19,
+        "name": "Drinks",
+        "restaurant_id": 5
+    },
+
+    {
+        "id": 20,
+        "name": "Specials",
+        "restaurant_id": 6
+    },
+
+    {
+        "id": 21,
+        "name": "Regulars",
+        "restaurant_id": 6
+    },
+    
+    {
+        "id": 22,
+        "name": "Drinks",
+        "restaurant_id": 6
+    },
+
+    {
+        "id": 23,
+        "name": "Food",
+        "restaurant_id": 7
+    },
+
+    {
+        "id": 24,
+        "name": "Driks",
+        "restaurant_id": 7
+    },
+
+    {
+        "id": 25,
+        "name": "Food",
+        "restaurant_id": 8
+    },
+
+    {
+        "id": 26,
+        "name": "Drinks",
+        "restaurant_id": 8
+    }
+
+]

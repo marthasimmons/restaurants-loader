@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Stewart Davies",
+        "date": "28/01/2021",
+        "time": "17:30",
+        "table_id": 14
+    },
+
+    {
+        "id": 2,
+        "name": "Aaron Smith",
+        "date": "13/10/2020",
+        "time": "12:00",
+        "table_id": 7
+    },
+
+    {
+        "id": 3,
+        "name": "Jean Palmer",
+        "date": "15/11/2020",
+        "time": "21:30",
+        "table_id": 16
+    },
+
+    {
+        "id": 4,
+        "name": "Max Levy",
+        "date": "24/11/2020",
+        "time": "20:00",
+        "table_id": 9
+    },
+
+    {
+        "id": 5,
+        "name": "Lucy Green",
+        "date": "01/01/2021",
+        "time": "13:30",
+        "table_id": 2
+    }
+]
